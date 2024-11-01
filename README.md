@@ -1,0 +1,2 @@
+# aicode
+AI Project
